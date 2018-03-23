@@ -1,0 +1,5 @@
+inspecode:
+  eslint:
+    options:
+      --format: codeframe
+      --rulesdir: ./scripts/eslint_rules
